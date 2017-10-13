@@ -1,4 +1,4 @@
 # -*- python -*-
-bld.make_package('WireCellNanoflann', use='')
+bld.make_package('WireCellNanoflann', use='EIGEN')
 
 
