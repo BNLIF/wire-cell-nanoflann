@@ -28,7 +28,7 @@
 
 #pragma once
 
-#include "WireCellNanoflann/nanoflann.h"
+#include "WCPNanoflann/nanoflann.h"
 
 #include <vector>
 

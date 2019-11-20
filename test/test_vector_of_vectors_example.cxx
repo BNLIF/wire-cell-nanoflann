@@ -26,7 +26,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *************************************************************************/
 
-#include "WireCellNanoflann/nanoflann.h"
+#include "WCPNanoflann/nanoflann.h"
 using namespace nanoflann;
 
 #include "KDTreeVectorOfVectorsAdaptor.h"
